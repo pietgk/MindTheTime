@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D7FA6B42989C0B6A3089B5EEBE997EB81B00EF6B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D7FA6B42989C0B6A3089B5EEBE997EB81B00EF6B" : 9223372036854775807,
+    "96459E7E1A4E3585EF5F9B94611C724A1275DEB3" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "262B576F-24C1-4D3D-A474-91C8CD08FE85",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D7FA6B42989C0B6A3089B5EEBE997EB81B00EF6B" : "MindTheTime\/",
+    "96459E7E1A4E3585EF5F9B94611C724A1275DEB3" : "RxFirebase\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MindTheTime",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MindTheTime\/MindTheTime.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:pietgk\/RxFirebase.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "96459E7E1A4E3585EF5F9B94611C724A1275DEB3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:pietgk\/MindTheTime.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D7FA6B42989C0B6A3089B5EEBE997EB81B00EF6B"
+    }
+  ]
+}
